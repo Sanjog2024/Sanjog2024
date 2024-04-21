@@ -16,19 +16,7 @@ Here are some ideas to get you started:
 -->
 # Software Engineer
 ## Python
-// Sample GitHub Comment
 
-/**
- * Hi team,
- * 
- * I've attached an image that might help in understanding the issue better.
- * 
- * [Image Link](https://example.com/image.png)
- * 
- * Let me know if you need further clarification.
- * 
- * Thanks,
- * Sanjog Rai
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
