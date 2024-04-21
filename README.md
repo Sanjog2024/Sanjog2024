@@ -5,17 +5,30 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Unipart Logistic
+- 🌱 I’m currently learning Software Engineer Bootcamp at CoGrammar
+- 👯 I’m looking to collaborate on any Software Engineering project
+- 🤔 I’m looking for help with opportunity
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: https://www.linkedin.com/in/sanjog-rai-profile/
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 -->
-# Task 5 - Build Your Brand: Technical Portfolio
-## Part 2 Pratical Task 2
+# Software Engineer
+## Python
+// Sample GitHub Comment
+
+/**
+ * Hi team,
+ * 
+ * I've attached an image that might help in understanding the issue better.
+ * 
+ * [Image Link](https://example.com/image.png)
+ * 
+ * Let me know if you need further clarification.
+ * 
+ * Thanks,
+ * Sanjog Rai
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
